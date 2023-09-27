@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ELNqyVBTIUQXPDOe4BVkA1/Yk7w/2MW61U9OKFul+ESAekDdI74cwTcWioq2FPGGMs+iqw1xvSp+4UjRNMCgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\predaTOR\\Desktop\\CountriesAPI task 8\\CountriesAPI\\CountriesAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\predaTOR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
